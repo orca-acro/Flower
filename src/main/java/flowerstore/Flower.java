@@ -21,8 +21,4 @@ public class Flower extends Item{
         this.flowerType = flowerType;
     }
 
-    @Override
-    public double getDescription() {
-        return 0;
-    }
 }
